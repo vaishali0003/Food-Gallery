@@ -4,10 +4,15 @@
   box-sizing: border-box;
   font-family: 'Mulish', sans-serif;
 }
+.menu-tab .btn{
+  margin: 4px 4px;
+}
 
 .menu-tab .btn:hover{
   color: #ffc107;
   background-color: black;
+  white-space: normal !important;
+    word-wrap: break-word;
 }
 
 .img-div{
